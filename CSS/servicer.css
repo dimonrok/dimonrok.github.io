@@ -1,0 +1,11 @@
+.block {
+	width: 100%;
+	margin-top:51px;
+}
+
+.block img {
+	float: right;
+	min-width: 300px;
+	width: 40%;
+	
+}

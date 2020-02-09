@@ -1,0 +1,48 @@
+
+.top {
+     margin-top: 100px; 
+    text-align: center;
+
+}
+
+.container label {
+    line-height: 40px;
+  margin-left: 41%;
+
+}
+  
+ .container input {
+  margin-left: 40%;
+  width: 20%;
+  padding: 15px;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+
+hr {
+  margin-bottom: 25px;
+}
+
+ .container .registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding:16px 0;
+  cursor: pointer;
+  width: 14%;
+  opacity: 0.8;
+  margin: 20px 0 0 43%;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+form a {
+  color: dodgerblue !important;
+}
+p {
+    text-align: center;
+}
